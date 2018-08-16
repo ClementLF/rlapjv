@@ -1,4 +1,4 @@
-# Retangular Linear Assignment Problem - Jonker-Volgenant Solver (rlapjv)
+# Rectangular Linear Assignment Problem - Jonker-Volgenant Solver (rlapjv)
 
 
 ## About
